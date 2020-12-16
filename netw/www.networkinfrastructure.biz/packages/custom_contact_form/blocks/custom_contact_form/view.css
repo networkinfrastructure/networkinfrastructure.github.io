@@ -1,0 +1,24 @@
+/* Form Styles BEGIN */
+.clear { clear: both; }
+
+.checkbox_item {
+	height:20px;
+	float: left;
+	width:5%;
+	margin-right:4%;
+}
+
+.checkbox_label {
+	height:20px;
+	float:left;
+	margin-top:4px;
+	width:91%;
+}
+
+.boxsizingBorder {
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+	width: 100%;
+}
+/* Form Styles END */

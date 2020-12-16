@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+14:10:23	228/228	---M--	302	error ('Found')	text/html	date:Mon,%2007%20Dec%202020%2019:11:15%20GMT	http://www.networkinfrastructure.biz/robots.txt		(from )
+14:10:23	218/218	---M--	302	error ('Found')	text/html	date:Mon,%2007%20Dec%202020%2019:11:16%20GMT	http://www.networkinfrastructure.biz/	C:/My%20Web%20Sites/netw/www.networkinfrastructure.biz/index.html	(from )
